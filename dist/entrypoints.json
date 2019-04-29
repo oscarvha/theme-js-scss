@@ -1,0 +1,13 @@
+{
+  "entrypoints": {
+    "theme": {
+      "js": [
+        "/dist/runtime.js",
+        "/dist/theme.js"
+      ],
+      "css": [
+        "/dist/theme.css"
+      ]
+    }
+  }
+}

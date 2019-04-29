@@ -1,0 +1,5 @@
+{
+  "dist/runtime.js": "/dist/runtime.js",
+  "dist/theme.css": "/dist/theme.css",
+  "dist/theme.js": "/dist/theme.js"
+}
